@@ -1,0 +1,20 @@
+C:\Users\parth\AppData\Local\Temporary Projects\C2CUDATranslator\obj\Release\ResolveAssemblyReference.cache
+C:\Users\parth\Documents\Visual Studio 2008\Projects\C2CUDATranslator\C2CUDATranslator\bin\Release\Bytecode.stg
+C:\Users\parth\Documents\Visual Studio 2008\Projects\C2CUDATranslator\C2CUDATranslator\bin\Release\C2CUDATranslator.build
+C:\Users\parth\Documents\Visual Studio 2008\Projects\C2CUDATranslator\C2CUDATranslator\bin\Release\CUDAC.stg
+C:\Users\parth\Documents\Visual Studio 2008\Projects\C2CUDATranslator\C2CUDATranslator\bin\Release\files
+C:\Users\parth\Documents\Visual Studio 2008\Projects\C2CUDATranslator\C2CUDATranslator\bin\Release\input
+C:\Users\parth\Documents\Visual Studio 2008\Projects\C2CUDATranslator\C2CUDATranslator\bin\Release\Java.stg
+C:\Users\parth\Documents\Visual Studio 2008\Projects\C2CUDATranslator\C2CUDATranslator\bin\Release\output
+C:\Users\parth\Documents\Visual Studio 2008\Projects\C2CUDATranslator\C2CUDATranslator\bin\Release\Python.stg
+C:\Users\parth\Documents\Visual Studio 2008\Projects\C2CUDATranslator\C2CUDATranslator\bin\Release\C2CUDATranslator.exe
+C:\Users\parth\Documents\Visual Studio 2008\Projects\C2CUDATranslator\C2CUDATranslator\bin\Release\C2CUDATranslator.pdb
+C:\Users\parth\Documents\Visual Studio 2008\Projects\C2CUDATranslator\C2CUDATranslator\bin\Release\antlr.runtime.dll
+C:\Users\parth\Documents\Visual Studio 2008\Projects\C2CUDATranslator\C2CUDATranslator\bin\Release\Antlr3.Runtime.dll
+C:\Users\parth\Documents\Visual Studio 2008\Projects\C2CUDATranslator\C2CUDATranslator\bin\Release\Antlr3.Utility.dll
+C:\Users\parth\Documents\Visual Studio 2008\Projects\C2CUDATranslator\C2CUDATranslator\bin\Release\StringTemplate.dll
+C:\Users\parth\Documents\Visual Studio 2008\Projects\C2CUDATranslator\C2CUDATranslator\bin\Release\Antlr3.Utility.xml
+C:\Users\parth\Documents\Visual Studio 2008\Projects\C2CUDATranslator\C2CUDATranslator\bin\Release\Antlr3.Runtime.xml
+C:\Users\parth\Documents\Visual Studio 2008\Projects\C2CUDATranslator\C2CUDATranslator\obj\Release\ResolveAssemblyReference.cache
+C:\Users\parth\Documents\Visual Studio 2008\Projects\C2CUDATranslator\C2CUDATranslator\obj\Release\C2CUDATranslator.exe
+C:\Users\parth\Documents\Visual Studio 2008\Projects\C2CUDATranslator\C2CUDATranslator\obj\Release\C2CUDATranslator.pdb

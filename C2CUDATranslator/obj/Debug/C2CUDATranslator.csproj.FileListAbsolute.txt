@@ -1,0 +1,102 @@
+C:\Users\parth\AppData\Local\Temporary Projects\C2CUDATranslator\bin\Debug\CUDAC.stg
+C:\Users\parth\AppData\Local\Temporary Projects\C2CUDATranslator\bin\Debug\files
+C:\Users\parth\AppData\Local\Temporary Projects\C2CUDATranslator\bin\Debug\input
+C:\Users\parth\AppData\Local\Temporary Projects\C2CUDATranslator\bin\Debug\Java.stg
+C:\Users\parth\AppData\Local\Temporary Projects\C2CUDATranslator\bin\Debug\output
+C:\Users\parth\AppData\Local\Temporary Projects\C2CUDATranslator\bin\Debug\Python.stg
+C:\Users\parth\AppData\Local\Temporary Projects\C2CUDATranslator\bin\Debug\C2CUDATranslator.exe
+C:\Users\parth\AppData\Local\Temporary Projects\C2CUDATranslator\bin\Debug\C2CUDATranslator.pdb
+C:\Users\parth\AppData\Local\Temporary Projects\C2CUDATranslator\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\parth\AppData\Local\Temporary Projects\C2CUDATranslator\obj\Debug\C2CUDATranslator.exe
+C:\Users\parth\AppData\Local\Temporary Projects\C2CUDATranslator\obj\Debug\C2CUDATranslator.pdb
+C:\Users\parth\AppData\Local\Temporary Projects\C2CUDATranslator\bin\Debug\antlr.runtime.dll
+C:\Users\parth\AppData\Local\Temporary Projects\C2CUDATranslator\bin\Debug\Antlr3.Runtime.dll
+C:\Users\parth\AppData\Local\Temporary Projects\C2CUDATranslator\bin\Debug\Antlr3.Utility.dll
+C:\Users\parth\AppData\Local\Temporary Projects\C2CUDATranslator\bin\Debug\StringTemplate.dll
+C:\Users\parth\AppData\Local\Temporary Projects\C2CUDATranslator\bin\Debug\Antlr3.Utility.xml
+C:\Users\parth\AppData\Local\Temporary Projects\C2CUDATranslator\bin\Debug\Antlr3.Runtime.xml
+C:\Users\parth\Documents\Visual Studio 2008\Projects\C2CUDATranslator\C2CUDATranslator\obj\Debug\C2CUDATranslator.exe
+C:\Users\parth\Documents\Visual Studio 2008\Projects\C2CUDATranslator\C2CUDATranslator\obj\Debug\C2CUDATranslator.pdb
+C:\Users\parth\Documents\Visual Studio 2008\Projects\C2CUDATranslator\C2CUDATranslator\bin\Debug\files
+C:\Users\parth\Documents\Visual Studio 2008\Projects\C2CUDATranslator\C2CUDATranslator\bin\Debug\Java.stg
+C:\Users\parth\Documents\Visual Studio 2008\Projects\C2CUDATranslator\C2CUDATranslator\bin\Debug\output
+C:\Users\parth\Documents\Visual Studio 2008\Projects\C2CUDATranslator\C2CUDATranslator\bin\Debug\Python.stg
+C:\Users\parth\Documents\Visual Studio 2008\Projects\C2CUDATranslator\C2CUDATranslator\bin\Debug\C2CUDATranslator.exe
+C:\Users\parth\Documents\Visual Studio 2008\Projects\C2CUDATranslator\C2CUDATranslator\bin\Debug\C2CUDATranslator.pdb
+C:\Users\parth\Documents\Visual Studio 2008\Projects\C2CUDATranslator\C2CUDATranslator\bin\Debug\antlr.runtime.dll
+C:\Users\parth\Documents\Visual Studio 2008\Projects\C2CUDATranslator\C2CUDATranslator\bin\Debug\Antlr3.Runtime.dll
+C:\Users\parth\Documents\Visual Studio 2008\Projects\C2CUDATranslator\C2CUDATranslator\bin\Debug\Antlr3.Utility.dll
+C:\Users\parth\Documents\Visual Studio 2008\Projects\C2CUDATranslator\C2CUDATranslator\bin\Debug\StringTemplate.dll
+C:\Users\parth\Documents\Visual Studio 2008\Projects\C2CUDATranslator\C2CUDATranslator\bin\Debug\Antlr3.Utility.xml
+C:\Users\parth\Documents\Visual Studio 2008\Projects\C2CUDATranslator\C2CUDATranslator\bin\Debug\Antlr3.Runtime.xml
+C:\Users\parth\Documents\Visual Studio 2008\Projects\C2CUDATranslator\C2CUDATranslator\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\parth\Documents\Visual Studio 2008\Projects\C2CUDATranslator\C2CUDATranslator\bin\Debug\Bytecode.stg
+C:\Users\parth\Documents\Visual Studio 2008\Projects\C2CUDATranslator\C2CUDATranslator\bin\Debug\C2CUDATranslator.build
+C:\Users\parth\Documents\Visual Studio 2008\Projects\C2CUDATranslator\C2CUDATranslator\bin\Debug\CUDAC.stg
+C:\Users\parth\Documents\Visual Studio 2008\Projects\C2CUDATranslator\C2CUDATranslator\bin\Debug\input_matrix
+C:\Users\parth\Documents\Visual Studio 2008\Projects\C2CUDATranslator\C2CUDATranslator\bin\Debug\input
+C:\Users\parth\Documents\Visual Studio 2008\Projects\C2CUDATranslator\C2CUDATranslator\bin\Debug\input_knapsack
+D:\Sources\Java\28 November\28 November\C2CUDATranslator\C2CUDATranslator\obj\Debug\C2CUDATranslator.exe
+D:\Sources\Java\28 November\28 November\C2CUDATranslator\C2CUDATranslator\obj\Debug\C2CUDATranslator.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\C2CUDATranslator\C2CUDATranslator\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\C2CUDATranslator\C2CUDATranslator\bin\Debug\Bytecode.stg
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\C2CUDATranslator\C2CUDATranslator\bin\Debug\C2CUDATranslator.build
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\C2CUDATranslator\C2CUDATranslator\bin\Debug\input_knapsack
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\C2CUDATranslator\C2CUDATranslator\bin\Debug\CUDAC.stg
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\C2CUDATranslator\C2CUDATranslator\bin\Debug\files
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\C2CUDATranslator\C2CUDATranslator\bin\Debug\input
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\C2CUDATranslator\C2CUDATranslator\bin\Debug\input_matrix
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\C2CUDATranslator\C2CUDATranslator\bin\Debug\Java.stg
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\C2CUDATranslator\C2CUDATranslator\bin\Debug\output
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\C2CUDATranslator\C2CUDATranslator\bin\Debug\Python.stg
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\C2CUDATranslator\C2CUDATranslator\bin\Debug\C2CUDATranslator.exe
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\C2CUDATranslator\C2CUDATranslator\bin\Debug\C2CUDATranslator.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\C2CUDATranslator\C2CUDATranslator\bin\Debug\antlr.runtime.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\C2CUDATranslator\C2CUDATranslator\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\C2CUDATranslator\C2CUDATranslator\bin\Debug\Antlr3.Utility.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\C2CUDATranslator\C2CUDATranslator\bin\Debug\StringTemplate.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\C2CUDATranslator\C2CUDATranslator\bin\Debug\Antlr3.Utility.xml
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\C2CUDATranslator\C2CUDATranslator\bin\Debug\Antlr3.Runtime.xml
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\C2CUDATranslator\C2CUDATranslator\obj\Debug\C2CUDATranslator.exe
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\C2CUDATranslator\C2CUDATranslator\obj\Debug\C2CUDATranslator.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\C2CUDATranslator\C2CUDATranslator\bin\Debug\CUDACKernel.stg
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\C2CUDATranslator\C2CUDATranslator\bin\Debug\CUDAPattern.stg
+Z:\C2CUDATranslator\C2CUDATranslator\obj\Debug\ResolveAssemblyReference.cache
+Z:\C2CUDATranslator\C2CUDATranslator\obj\Debug\C2CUDATranslator.Form1.resources
+Z:\C2CUDATranslator\C2CUDATranslator\obj\Debug\C2CUDATranslator.csproj.GenerateResource.Cache
+Z:\C2CUDATranslator\C2CUDATranslator\bin\Debug\Database1.mdf
+Z:\C2CUDATranslator\C2CUDATranslator\bin\Debug\Database1_log.ldf
+Z:\C2CUDATranslator\C2CUDATranslator\bin\Debug\Bytecode.stg
+Z:\C2CUDATranslator\C2CUDATranslator\bin\Debug\C2CUDATranslator.build
+Z:\C2CUDATranslator\C2CUDATranslator\bin\Debug\input histo
+Z:\C2CUDATranslator\C2CUDATranslator\bin\Debug\Input 2DVector 2
+Z:\C2CUDATranslator\C2CUDATranslator\bin\Debug\input MM
+Z:\C2CUDATranslator\C2CUDATranslator\bin\Debug\Input 2DVector
+Z:\C2CUDATranslator\C2CUDATranslator\bin\Debug\inpu Gereral
+Z:\C2CUDATranslator\C2CUDATranslator\bin\Debug\input conv
+Z:\C2CUDATranslator\C2CUDATranslator\bin\Debug\input pi
+Z:\C2CUDATranslator\C2CUDATranslator\bin\Debug\CUDAC lcs.stg
+Z:\C2CUDATranslator\C2CUDATranslator\bin\Debug\input_lcs
+Z:\C2CUDATranslator\C2CUDATranslator\bin\Debug\Vector
+Z:\C2CUDATranslator\C2CUDATranslator\bin\Debug\input_knapsack2
+Z:\C2CUDATranslator\C2CUDATranslator\bin\Debug\CUDAPattern.stg
+Z:\C2CUDATranslator\C2CUDATranslator\bin\Debug\CUDACKernel.stg
+Z:\C2CUDATranslator\C2CUDATranslator\bin\Debug\input_knapsack
+Z:\C2CUDATranslator\C2CUDATranslator\bin\Debug\CUDAC.stg
+Z:\C2CUDATranslator\C2CUDATranslator\bin\Debug\files
+Z:\C2CUDATranslator\C2CUDATranslator\bin\Debug\input
+Z:\C2CUDATranslator\C2CUDATranslator\bin\Debug\input_matrix
+Z:\C2CUDATranslator\C2CUDATranslator\bin\Debug\Java.stg
+Z:\C2CUDATranslator\C2CUDATranslator\bin\Debug\output
+Z:\C2CUDATranslator\C2CUDATranslator\bin\Debug\Python.stg
+Z:\C2CUDATranslator\C2CUDATranslator\bin\Debug\C2CUDATranslator.exe.config
+Z:\C2CUDATranslator\C2CUDATranslator\bin\Debug\C2CUDATranslator.exe
+Z:\C2CUDATranslator\C2CUDATranslator\bin\Debug\C2CUDATranslator.pdb
+Z:\C2CUDATranslator\C2CUDATranslator\obj\Debug\C2CUDATranslator.exe
+Z:\C2CUDATranslator\C2CUDATranslator\obj\Debug\C2CUDATranslator.pdb
+Z:\C2CUDATranslator\C2CUDATranslator\bin\Debug\input Krushkal
+Z:\C2CUDATranslator\C2CUDATranslator\bin\Debug\input FFT
+Z:\C2CUDATranslator\C2CUDATranslator\bin\Debug\input SAD
+F:\Parth Locker\C2CUDATranslator\C2CUDATranslator\bin\Debug\C2CUDATranslator.exe.config
+F:\Parth Locker\C2CUDATranslator\C2CUDATranslator\obj\Debug\C2CUDATranslator.exe
+F:\Parth Locker\C2CUDATranslator\C2CUDATranslator\obj\Debug\C2CUDATranslator.pdb
